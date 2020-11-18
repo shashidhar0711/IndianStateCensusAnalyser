@@ -83,7 +83,7 @@ namespace CensusAnalyserTest
         }
 
         /// <summary>
-        /// Tset case 1.5
+        /// Test case 1.5
         /// Givens the indian census data file when header not proper should return exception.
         /// </summary>
         [Test]
