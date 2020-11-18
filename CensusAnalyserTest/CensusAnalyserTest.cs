@@ -144,7 +144,7 @@ namespace CensusAnalyserTest
 
         /// <summary>
         /// Test case 2.5
-        /// Givens the indian state code file when header not proper should return exception.
+        /// Givens the indian state code file when header not proper it should return exception.
         /// </summary>
         [Test]
         public void GivenIndianStateCodeFile_WhenHeaderNotProper_ShouldReturnException()
